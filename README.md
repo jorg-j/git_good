@@ -40,7 +40,7 @@ Once this is done running --update will update git_good to the latest version in
 ## Contributing
 
 This is a living project. Feel free to fork this code to suit you or add to it for new features.
-Alternatively if there is something you would like added please reach out to Jack Jorgensen
+Alternatively if there is something you would like added please reach out
 
 ## Authors and acknowledgment
 
