@@ -13,13 +13,21 @@ Type `./git_good.sh -h` for a help menu.
 Some options will have prompts and guides to support you through.
 
   To declare the filename -f | --file filename
+
   To declare the commit message -c | --commit | -m 'My message'
+
   Unstage a file -u | --unstage filename (File is added but not commited)
+
   Create a branch wizard -b |--branch
+
   Setup an entire repo structure -B | --build (new projects only)
+
   See commit history -C | --commits
+
   Push and pull commits -p | --sync
+
   Merge helper -M | --merge
+
   Update -U | --update
 
 Add a file and commit message in 1 line
@@ -36,11 +44,11 @@ Alternatively if there is something you would like added please reach out to Jac
 
 ## Authors and acknowledgment
 
-- Jack Jorgensen
+- jorg-j
 
 ## License
 
-Copyright 2022 Jack Jorgensen
+Copyright 2022 jorg-j
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 

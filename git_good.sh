@@ -1,5 +1,5 @@
 #!/bin/bash
-# Copyright 2022 Jack Jorgensen
+# Copyright 2022 jorg-j https://github.com/jorg-j/git_good
 #
 # Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 #
